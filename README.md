@@ -55,12 +55,4 @@ Some example outputs from the program are:
 - Total pages read by all users: `7210`
 - Total users who have read more than one book: `30`
 
-## Notes
 
-- The program uses SQL queries for calculations such as `AVG`, `SUM`, and `COUNT`.
-- The application is command-line based, so no graphical interface is included.
-- The database is stored locally as a SQLite file.
-
-## Author
-
-This project was created for the PI 6 Introduction to Software Engineering assignment.
